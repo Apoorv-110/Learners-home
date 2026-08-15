@@ -1,10 +1,10 @@
-# 📱 Learners' Home — Android Application
+#  Learners' Home — Android Application
 
 **Learners' Home** is an educational Android application built with Kotlin, focusing on efficient asynchronous processing, responsive UI design, and monetization strategy.
 
 ---
 
-## 🛠️ Tech Stack & Architecture
+##  Tech Stack & Architecture
 
 * **Language:** Kotlin
 * **UI Framework:** Material Design, XML Layouts
@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 * Responsive UI with managed Activity lifecycles.
 * Asynchronous data loading off the UI thread to prevent Application Not Responding (ANR) errors.
@@ -24,7 +24,7 @@
 
 ---
 
-## 📱 Application Screenshots & UI Showcase
+##  Application Screenshots & UI Showcase
 
 |<img src="home button .jpeg" width="200"/> | <img src="search courses 1.jpeg" width="200"/> | <img src="class 12 .jpeg" width="200"/> |
 |:---:|:---:|:---:|
